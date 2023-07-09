@@ -4,6 +4,8 @@ Jupyter notebook for analysing nanopore sequencing of nanobodies
 ## Setup
 Copy data from the minion computer. Results are stored in Var/Lib/Minknow/Data.
 
+If you have a windows computer then you will need a virtual Ubuntu container to run this analysis. Follow the instructions below.
+
 #### Install Docker Desktop
 
 Download from: https://www.docker.com/products/docker-desktop/
