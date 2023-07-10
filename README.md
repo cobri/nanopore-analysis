@@ -28,10 +28,9 @@ https://github.com/nanoporetech/medaka
 
 #### Install python
 
-```
-apt update
-apt-get install python3
-```
+`apt update`  
+`apt-get install python3`
+
 
 Check it is installed:
 
@@ -47,18 +46,14 @@ Check it is installed:
 
 Open R and install ggplot2 and patchwork
 
-```
-R
-install.packages('ggplot2')
-install.packages('patchwork')
-```
+`R`  
+`install.packages('ggplot2')`  
+`install.packages('patchwork')`
 
 #### Install jupyter notebook and launch nanopore analysis
 
-```
-pip install notebook
-jupyter notebook Nanopore_Analysis_Template.ipynb
-```
+`pip install notebook`  
+`jupyter notebook Nanopore_Analysis_Template.ipynb`
 
 #### Save the docker container
 
